@@ -81,6 +81,3 @@ li{
 			<a href="./datadog"><li>DataDog</li></a>
 	</div>
 </div>
-
-
-

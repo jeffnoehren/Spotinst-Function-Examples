@@ -1,0 +1,23 @@
+service: ResumePolicy
+
+provider:
+  name: spotinst
+  spotinst:
+    environment: {Your Environment Variable}
+
+functions:
+  ResumePolicy:
+    runtime: java8
+    handler: com.serverless.Handler
+    memory: 128
+    timeout: 30
+    access: private
+    environmentVariables: {
+      spotToken: "Spotinst API Token",
+      spotAccount: "Spotinst Account ID",
+      spotGroup: "Elastigroup ID",
+      spotPolicy: "Scaling Policy Name"
+    }
+
+plugins:
+  - serverless-spotinst-functions
