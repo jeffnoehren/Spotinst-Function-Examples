@@ -1,0 +1,17 @@
+service: SNSExample
+
+provider:
+  name: spotinst
+  spotinst:
+    environment: env-00b6682e
+
+functions:
+  SNSExample:
+    runtime: nodejs8.3
+    handler: handler.main
+    memory: 128
+    timeout: 30
+    access: public
+
+plugins:
+  - serverless-spotinst-functions

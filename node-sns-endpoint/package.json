@@ -1,0 +1,21 @@
+{
+  "name": "spotinst-sns-example",
+  "version": "1.0.0",
+  "description": "Receive SNS Notifications",
+  "main": "handler.js",
+  "keywords": [
+    "serverless",
+    "spotinst"
+  ],
+  "devDependencies": {
+    "serverless-spotinst-functions": "*"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.186.0",
+    "https": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "sns-validator": "^0.3.2",
+    "url": "^0.11.0"
+  }
+}

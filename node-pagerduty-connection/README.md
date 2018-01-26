@@ -6,7 +6,7 @@ This project allows you to connect your Elastigroups to PagerDuty to send notifi
 
 ## Download
 
-To download this project as a template for your own Spotinst Function please use this command
+To download this project as a template for your own Spotinst Function please use this command.
 
 ```bash
 serverless create --template-url https://github.com/spotinst/spotinst-functions-examples/tree/master/node-pagerduty-connection
@@ -24,7 +24,7 @@ npm install -g serverless
 
 Once this has finished downloading you will have to set up your credentials to link your local machine projects to your Spotinst console. To do this please follow the directions listed [here](https://serverless.com/framework/docs/providers/spotinst/guide/credentials/).
 
-You will also need your environment ID for your function. This can be found on the Spotinst console under the Serverless Functions tab. Select the application you wish to deploy this funciton to and locate the environment that you wish to use. Copy the environment ID and save this for later use
+You will also need your environment ID for your function. This can be found on the Spotinst console under the Serverless Functions tab. Select the application you wish to deploy this funciton to and locate the environment that you wish to use. Copy the environment ID and save this for later use.
 
 Additionally you will need to have your MySQL `host`, `username`, `database`, and `password` to gain access to your data table.
 
