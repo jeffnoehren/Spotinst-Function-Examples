@@ -4,9 +4,8 @@
 Here are a few examples to help you get started with Spotinst Serverless Functions
 
 
-<ul>
-    <li>
-        <a href="">Getting Started</a>
+
+        Getting Started
         <ul>
             <li><a href="./getting-started.md">Introduction</a></li>
             <li><a href="./cloning-project.md">Cloning A Project</a></li>
@@ -15,24 +14,25 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
             <li><a href="https://help.spotinst.com/hc/en-us/categories/115000701089-Spotinst-Functions-">Spotinst Serverless Help Center</a></li>
             <li><a href="https://join.slack.com/t/spotinst-community/shared_invite/">Spotinst Community Slack</a></li>
         </ul>
-    </li>
-    <li>
-        <a href="">Examples</a>
+
+	<br><br>
+
+        Examples
         <ul>
-            <li>Languages</li>
+            Languages
 				<ul>
 					<li><a href="./node"><li>Node</li></a>
 					<li><a href="./python"><li>Python</li></a>
 					<li><a href="./java8"><li>Java8</li></a>
 				</ul>
-            <li>Spotinst Connect</li>
+            Spotinst Connect
             	<ul>
 					<li><a href="./endpoints"><li>Endpoints</li></a>
 					<li><a href="./document-store"><li>Document Store</li></a>
 					<li><a href="./emr"><li>EMR</li></a>
 					<li><a href="./elastigroup"><li>Elastigroup</li></a>            		
             	</ul>
-            <li>Other Examples</li>
+            Other Examples
             	<ul>
 					<li><a href="./node-twitter-vision"><li>Twitter</li></a>
 					<li><a href="./node-lyft-webApp"><li>Lyft</li></a>
@@ -45,9 +45,8 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
 					<li><a href="./node-simple-chatbot"><li>Chat Bot Web App</li></a>            		
             	</ul>
         </ul>
-    </li>
 
-</ul>
+
 
 <style>
 .menu-group{
