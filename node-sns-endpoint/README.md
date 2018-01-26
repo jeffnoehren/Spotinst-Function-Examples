@@ -1,5 +1,7 @@
 # Node SNS Endpoint Function
 
+[Check Out the Code](https://github.com/spotinst/spotinst-functions-examples/tree/master/n/node-sns-endpoint)
+
 This is a simple node project that you can use as an endpoint for SNS triggers from AWS
 
 ## Download

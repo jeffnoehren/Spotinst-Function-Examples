@@ -36,3 +36,6 @@ title: Node
 |[Elastigroup-Data Dog Events](./node-datadog-event)  This app has two funcitons to connect your Elastigroup to Data Dog and posts Events to track your group|
 |[Lyft Web App](./node-lyft-webApp)  This services is three functions working together to allow you to request a lyft| 
 |[Twitter Vision App](./node-twitter-vision)  This services is three functions working together to allow you to capture tweets that have an image and contain any word you want |
+|[Static Binar](./node-static-binary)  This function will allow you to run the static binary ffmpeg on a serverless function |
+|[Twitter Vision App](./node-sns-endpoint)  This function will allow you to accept SNS endpoints for your AWS resources |
+

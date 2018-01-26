@@ -1,5 +1,7 @@
 # Static Binary with ffmpeg
 
+[Check Out the Code](https://github.com/spotinst/spotinst-functions-examples/tree/master/node-static-binary)
+
 This is an example of how to include a static binary in your function. Here we use ffmpeg to convert an .avi video to a .gif. The function outputs metadata at the endpoint.
 
 ## Download

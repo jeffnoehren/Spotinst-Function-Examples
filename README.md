@@ -74,10 +74,15 @@ li{
 			<a href="./elastigroup"><li>Elastigroup</li></a>
 	</div>
 	<div class="single-menu">
-		<h3>Outside Connection</h3>
+		<h3>Other Examples</h3>
 			<a href="./node-twitter-vision"><li>Twitter</li></a>
 			<a href="./node-lyft-webApp"><li>Lyft</li></a>
 			<a href="./node-pagerduty-connection"><li>PagerDuty</li></a>
 			<a href="./datadog"><li>DataDog</li></a>
+			<a href="./node-static-binary"><li>Static Binary</li></a>
+			<a href="./node-sns-endpoint"><li>SNS Endpoint</li></a>
+			<a href="./node-alexa-skill"><li>Alexa Skill</li></a>
+			<a href="./node-raffle-app"><li>Raffle Web App</li></a>
+			<a href="./node-simple-chatbot"><li>Chat Bot Web App</li></a>
 	</div>
 </div>
