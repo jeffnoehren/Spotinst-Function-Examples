@@ -4,7 +4,7 @@
 Here are a few examples to help you get started with Spotinst Serverless Functions
 
 
-
+		<html>
         Getting Started
         <ul>
             <li><a href="./getting-started.md">Introduction</a></li>
@@ -45,6 +45,7 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
 					<li><a href="./node-simple-chatbot"><li>Chat Bot Web App</li></a>            		
             	</ul>
         </ul>
+        </html>
 
 
 
