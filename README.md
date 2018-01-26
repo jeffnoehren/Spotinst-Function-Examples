@@ -19,20 +19,33 @@ Getting Started
 
 Examples
 <ul>
-    Languages
+    <li>
+        <a href="">Hello World</a>
+		<ul>
+			<li><a href="./node-hello-world"><li>Node</li></a>
+			<li><a href="./python-hello-world"><li>Python</li></a>
+			<li><a href="./java8-hello-world"><li>Java8</li></a>
+		</ul>
+    </li>
+    <li>
+        <a href="">Languages</a>
 		<ul>
 			<li><a href="./node"><li>Node</li></a>
 			<li><a href="./python"><li>Python</li></a>
 			<li><a href="./java8"><li>Java8</li></a>
 		</ul>
-    Spotinst Connect
+    </li>
+     <li>
+        <a href="">Spotinst Connect</a>
     	<ul>
 			<li><a href="./endpoints"><li>Endpoints</li></a>
 			<li><a href="./document-store"><li>Document Store</li></a>
 			<li><a href="./emr"><li>EMR</li></a>
 			<li><a href="./elastigroup"><li>Elastigroup</li></a>            		
     	</ul>
-    Other Examples
+    </li>
+     <li>
+        <a href="">Other Examples</a>
     	<ul>
 			<li><a href="./node-twitter-vision"><li>Twitter</li></a>
 			<li><a href="./node-lyft-webApp"><li>Lyft</li></a>
@@ -44,7 +57,9 @@ Examples
 			<li><a href="./node-raffle-app"><li>Raffle Web App</li></a>
 			<li><a href="./node-simple-chatbot"><li>Chat Bot Web App</li></a>            		
     	</ul>
+    </li>
 </ul>
+
 </html>
 
 
