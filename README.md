@@ -1,7 +1,4 @@
-# Spotinst Serverless Examples
-
-
-Here are a few examples to help you get started with Spotinst Serverless Functions
+<p>Welcome to Spotinst Serverless Functions Examples Repository! Here you will find tools to help you get started with Spotinst Functions as well as projects and ideas to deploy in your own environment. If you are new to Spotinst Functions please check out our "New Users" page. If you are looking for some examples check out our "Examples" page. </p>
 
 <style>
 .button {
@@ -17,8 +14,8 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
 }
 .button-group{
     text-align:center;
-    padding-right:95px;
-    padding-left:95px;
+    padding-right:145px;
+    padding-left:145px;
 }
 .a{
     float:left;
@@ -35,4 +32,4 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
 <a href="examples" class="button b">Examples</a>
 </div>
 
-<br><br>
+<p><br><br></p>
