@@ -11,17 +11,28 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
 }
 .button-group{
-    margin: auto;
+    text-align:center;
+    padding-right:95px;
+    padding-left:95px;
+}
+.a{
+    float:left;
+}
+.b{
+    float:right;
+}
+.site-footer{
 }
 </style>
 
 <div class="button-group">
-<a href="./new-user" class="button">New User</a>
-<a href="examples" class="button">Examples</a>
+<a href="./new-user" class="button a">New User</a>
+<a href="examples" class="button b">Examples</a>
 </div>
+
+<br><br>
