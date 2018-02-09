@@ -28,12 +28,12 @@ serverless create --template-url https://github.com/spotinst/spotinst-functions-
 	    }
 	</style>
 
+	<br><br>
     <div class="button-footer">
         <a href="https://serverless.com/framework/docs/providers/spotinst/" class="button-small">Serverless Documentation</a>
         <a href="https://spotinst.com/products/spotinst-functions/" class="button-small">Spotinst Functions</a>
         <a href="https://help.spotinst.com/hc/en-us/categories/115000701089-Spotinst-Functions-" class="button-small">Spotinst Help Center</a>
         <a href="https://join.slack.com/t/spotinst-community/shared_invite/" class="button-small">Spotinst Community Slack</a>
     </div>
-	</div>
 
 </html>
