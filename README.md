@@ -16,8 +16,12 @@ Here are a few examples to help you get started with Spotinst Serverless Functio
     margin: 4px 2px;
     cursor: pointer;
 }
+.button-group{
+    margin: auto;
+}
 </style>
 
-
+<div class="button-group">
 <a href="./new-user" class="button">New User</a>
 <a href="examples" class="button">Examples</a>
+</div>
