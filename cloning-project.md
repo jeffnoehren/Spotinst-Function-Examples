@@ -28,7 +28,7 @@ serverless create --template-url https://github.com/spotinst/spotinst-functions-
 	    }
 	</style>
 
-	<br><br>
+	<br>
     <div class="button-footer">
         <a href="https://serverless.com/framework/docs/providers/spotinst/" class="button-small">Serverless Documentation</a>
         <a href="https://spotinst.com/products/spotinst-functions/" class="button-small">Spotinst Functions</a>

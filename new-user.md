@@ -39,7 +39,11 @@ If you are new to using Spotinst Serverless Functions you can view the documenta
     </p><p>
 To install the serverless framework run this command in your terminal:
     </p><p>
+</html>
+```bash
 npm install -g serverless
+```
+<html>
     </p><p>
 Once this has finished downloading you will have to set up your credentials to link your local machine projects to your Spotinst console. To do this please follow the directions listed here This will generate a token which you will need in order to gain access to the Spotinst API so copy this somewhere for later use.
     </p>
