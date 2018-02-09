@@ -42,7 +42,7 @@ To install the serverless framework run this command in your terminal:
 	<pre class="highlight"><code>npm install -g serverless
 	</code></pre>
     </p><p>
-Once this has finished downloading you will have to set up your credentials to link your local machine projects to your Spotinst console. To do this please follow the directions listed here This will generate a token which you will need in order to gain access to the Spotinst API so copy this somewhere for later use.
+Once this has finished downloading you will have to set up your credentials to link your local machine projects to your Spotinst console. To do this please follow the directions listed <a href="https://serverless.com/framework/docs/providers/spotinst/guide/credentials/">here</a>
     </p>
         <p>
         Check out next how to clone a project
