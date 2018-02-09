@@ -20,11 +20,18 @@ li{
 
 <div class="menu-group">
 	<h1>Getting Started</h1>
-	<div class="single-menu">
-		<a href="./getting-started.md">Introduction</a>
+	<div>
+
+If you are new to using Spotinst Serverless Functions you can view the documentation on the [Serverless Fameworks Documentation](https://serverless.com/framework/docs/providers/spotinst/). You will need to have the serverless framework installed on your local machine as well as set up your Spotinst credentials.
+
+To install the serverless framework run this command in your terminal
+
+npm install -g serverless
+
+Once this has finished downloading you will have to set up your credentials to link your local machine projects to your Spotinst console. To do this please follow the directions listed here This will generate a token which you will need in order to gain access to the Spotinst API so copy this somewhere for later use.
 	</div>
 	<div class="single-menu">
-		<a href="./cloning-project.md">Cloning A Project</a>
+		<a href="./cloning-project">Cloning A Project</a>
 	</div>
 	<div class="single-menu">
 		<a href="https://serverless.com/framework/docs/providers/spotinst/">Spotinst Serverless Documentation</a>

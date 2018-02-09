@@ -1,4 +1,5 @@
-<p>Welcome to Spotinst Serverless Functions Examples Repository! Here you will find tools to help you get started with Spotinst Functions as well as projects and ideas to deploy in your own environment. If you are new to Spotinst Functions please check out our "New Users" page. If you are looking for some examples check out our "Examples" page. </p>
+<p></p><h3>Welcome to Spotinst Serverless Functions Examples Repository!</h3><p></p><p>Here you will find tools to help you get started with Spotinst Functions as well as projects and ideas to deploy in your own environment. If you are new to Spotinst Functions please check out our "New Users" page. If you are looking for some examples check out our "Examples" page. </p><p></p>
+
 
 <style>
 .button {
