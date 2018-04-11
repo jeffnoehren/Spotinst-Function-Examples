@@ -1,0 +1,64 @@
+service: ASGElastigroupConnect
+
+provider:
+  name: spotinst
+  spotinst:
+    environment: env-9b83bec1 
+
+functions:
+  getAllZones:
+    runtime: nodejs8.3
+    handler: getAllZones.main
+    memory: 128
+    timeout: 30
+    access: private
+    cron:  
+     active: false
+     value: '/1 * * * *'
+    environmentVariables:
+      getAllURL: 'URL for getALLASG'
+
+  getAllASG:
+    runtime: nodejs8.3
+    handler: getAllASG.main
+    memory: 128
+    timeout: 30
+    access: private
+    environmentVariables:
+      getSingleURL: 'URL for getSingleASGURL'
+    # iamRoleConfig:
+    #   roleId: 
+
+  getSingleASG:
+    runtime: nodejs8.3
+    handler: getSingleASG.main
+    memory: 128
+    timeout: 30
+    access: private
+    environmentVariables:
+      getPolicyURL: 'URL for getPolicy'
+      updateElastigroupURL: 'URL for updateElastigroup'
+    # iamRoleConfig:
+    #   roleId:     
+
+  getPolicy:
+    runtime: nodejs8.3
+    handler: getPolicy.main
+    memory: 128
+    timeout: 30
+    access: private
+    # iamRoleConfig:
+    #   roleId: 
+
+  updateElastigroup:
+    runtime: nodejs8.3
+    handler: updateElastigroup.main
+    memory: 128
+    timeout: 30
+    access: private
+    environmentVariables:
+      account: 'Spotinst Account ID'
+      token: 'Spotinst API Token'
+
+plugins:
+  - serverless-spotinst-functions

@@ -1,0 +1,24 @@
+{
+  "name": "spotionst-nodejs",
+  "version": "1.0.0",
+  "description": "Spotinst Functions NodeJS sample for serverless framework service.",
+  "main": "handler.js",
+  "keywords": [
+    "serverless",
+    "spotinst"
+  ],
+  "scripts": {
+    "buildDocs": "node ./bin/buildDocs.js"
+  },
+  "devDependencies": {
+    "serverless-spotinst-functions": "*"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "^2.222.1",
+    "camelcase": "^5.0.0",
+    "jsdoc-to-markdown": "^4.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
